@@ -1,0 +1,1 @@
+SELECT product, record_date , close_value, open_value FROM product_values WHERE product = 3 WHERE record_date IS BETWEEN "2020-11-27" AND "2020-02-01" ORDER BY record_date
