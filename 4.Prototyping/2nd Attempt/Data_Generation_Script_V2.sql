@@ -1,0 +1,1 @@
+SELECT max_value(record_date) FROM product_values WHERE product = 715 
